@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Reiniciarse
+GenericName=Reboot
+Comment="Comando que reinicia la PC
+Type=Application
+Terminal=false
+Exec=reboot
+Icon=utilities-terminal
+Categories=System
+Keywords=reboot;poweroff;

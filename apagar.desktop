@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Apagarse
+GenericName=Shutdown
+Comment="Comando que apaga la PC
+Type=Application
+Terminal=false
+Exec=poweroff
+Icon=utilities-terminal
+Categories=System
+Keywords=shutdown;poweroff;

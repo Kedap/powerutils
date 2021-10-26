@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Bloquearse
+GenericName=Lock
+Comment="Comando que bloquea la PC
+Type=Application
+Terminal=false
+Exec=lock-desktop
+Icon=utilities-terminal
+Categories=System
+Keywords=lock;poweroff;
